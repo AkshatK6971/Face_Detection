@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>85c8f4b0-8a1f-11f0-b29f-a0b339cc0f14.jpg</filename>
+	<path>C:\Users\Akshat\Downloads\face_recognition\data\images\85c8f4b0-8a1f-11f0-b29f-a0b339cc0f14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>250</ymin>
+			<xmax>347</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>
